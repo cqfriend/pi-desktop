@@ -1,1 +1,0 @@
-rsync -avz   --exclude '.gitignore' --exclude '.sh'   --exclude '.git' /Users/chengqiong/Documents/dev/pi/pi_go/dist/ root@node.371it.net:/www/wwwroot/node/static/dist/
