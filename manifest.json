@@ -3,7 +3,7 @@
   "files": {
     "linux-amd64": {
       "url": "pi-desktop",
-      "sha256": "e76f507b1ad0bb9906c34c82c46086d80cca6ce899f64d624b2ba8521ff4d672"
+      "sha256": "d565a9be9ee06602e1baa31cc3ea6117dd56e9b87a5987d9df5eb6a6d917d688"
     }
   }
 }
