@@ -2,8 +2,8 @@
   "version": "0.6.1",
   "files": {
     "linux-amd64": {
-      "url": "pi-desktop",
-      "sha256": "7b2490238281494ba0efb0b9bd95a8c3dbb2e1ff0a558a088f6c783018087d9c"
+      "url": "https://github.com/cqfriend/pi-desktop/raw/refs/heads/main/pi-desktop",
+      "sha256": "fe4501c12b82cc4976558a7d8f069d78553833d38d79b97e7b996b2fdd62f528"
     }
   }
 }
