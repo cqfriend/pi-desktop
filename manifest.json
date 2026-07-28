@@ -3,7 +3,7 @@
   "files": {
     "linux-amd64": {
       "url": "https://github.com/cqfriend/pi-desktop/raw/refs/heads/main/pi-desktop",
-      "sha256": "05c298e94caaf1bc195c7d2a156442675be619f85d08889f2e7b3286df56dc1f"
+      "sha256": "7ae7832feaf3dc68d9fe504b8a30c6b8175a8914a9d8be9fee9365aacba42751"
     }
   }
 }
